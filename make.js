@@ -15,8 +15,6 @@ function make () {
     return func;
 };
 
-function sum(a, b) {
-    return a + b;
-}
+
 
 module.exports = make;
